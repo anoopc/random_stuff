@@ -1,0 +1,1 @@
+char s[]="%dYESchar s[]=%c%s%c;main(){int n,i;scanf(s,&n);i=n;while(n%%--i);printf(i<2?(s[5]=0,s+2):s+5,34,s,34);exit(0);}";main(){int n,i;scanf(s,&n);i=n;while(n%--i);printf(i<2?(s[5]=0,s+2):s+5,34,s,34);exit(0);}
